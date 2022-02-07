@@ -7,7 +7,7 @@ Idea by [John Smilga](https://www.johnsmilga.com)
 
 ## You can see all projects in action here
 
-[Background color flipper](https://www.vanillajavascriptprojects.com/)
+[Background color flipper](https://dragostinh.github.io/javascript-basic-projects/01-color-flipper/setup/src/hex.html/)
 
 [Counter](https://www.vanillajavascriptprojects.com/)
 
