@@ -11,7 +11,7 @@ Idea by [John Smilga](https://www.johnsmilga.com)
 
 [Counter](https://dragostinh.github.io/javascript-basic-projects/02-counter/setup/index.html)
 
-[Review page](https://www.vanillajavascriptprojects.com/) - TODO
+[Review page](https://dragostinh.github.io/javascript-basic-projects/03-reviews/setup/src/index.html)
 
 [Navbar](https://www.vanillajavascriptprojects.com/) - TODO
 
