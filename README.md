@@ -9,7 +9,7 @@ Idea by [John Smilga](https://www.johnsmilga.com)
 
 [Background color flipper](https://dragostinh.github.io/javascript-basic-projects/01-color-flipper/setup/src/index.html)
 
-[Counter](https://dragostinh.github.io/javascript-basic-projects/02-counter/setup/index.html) - TODO
+[Counter](https://dragostinh.github.io/javascript-basic-projects/02-counter/setup/index.html)
 
 [Review page](https://www.vanillajavascriptprojects.com/) - TODO
 
