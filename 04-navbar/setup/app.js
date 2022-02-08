@@ -5,6 +5,7 @@
 // toggle - toggles class
 
 const navbar = (() => {
+    
     const navBtn = document.querySelector('.nav-toggle');
     const links = document.querySelector('.links');
      
