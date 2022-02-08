@@ -13,7 +13,7 @@ Idea by [John Smilga](https://www.johnsmilga.com)
 
 [Review page](https://dragostinh.github.io/javascript-basic-projects/03-reviews/setup/src/index.html)
 
-[Navbar](https://www.vanillajavascriptprojects.com/) - TODO
+[Navbar](https://dragostinh.github.io/javascript-basic-projects/04-navbar/setup/index.html) - TODO
 
 [Sidebar](https://www.vanillajavascriptprojects.com/) - TODO
 
