@@ -15,7 +15,7 @@ Idea by [John Smilga](https://www.johnsmilga.com)
 
 [Navbar](https://dragostinh.github.io/javascript-basic-projects/04-navbar/setup/index.html)
 
-[Sidebar](https://www.vanillajavascriptprojects.com/) - TODO
+[Sidebar](https://dragostinh.github.io/javascript-basic-projects/05-navbar/setup/index.html)
 
 [Modal](https://www.vanillajavascriptprojects.com/) - TODO
 
